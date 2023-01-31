@@ -1,0 +1,10 @@
+@media only screen and (max-width: 450px){
+    .contacts{
+        display: grid;
+        grid-template-columns: auto;
+    }
+}
+
+.addBtn{
+    margin: 0px;
+  }
